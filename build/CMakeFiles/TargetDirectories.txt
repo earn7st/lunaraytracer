@@ -1,3 +1,0 @@
-D:/_CG/lunaraytracer/build/CMakeFiles/lunaraytracer.dir
-D:/_CG/lunaraytracer/build/CMakeFiles/edit_cache.dir
-D:/_CG/lunaraytracer/build/CMakeFiles/rebuild_cache.dir

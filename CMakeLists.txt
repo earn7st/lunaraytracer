@@ -4,9 +4,6 @@ project(lunaraytracer)
 set(CMAKE_CXX_STANDARD 17)
 
 set(SOURCE
-    main.cpp
-    vec3.cpp)
-
-include_directories("C:/Program Files (x86)/Eigen3/include/eigen3")
+    main.cpp)
 
 add_executable(${PROJECT_NAME} ${SOURCE})

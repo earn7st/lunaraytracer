@@ -5,14 +5,14 @@ ray tracer written in C++, following the "Ray Tracing in One Weekend" series  :)
 
 - Metal and Fuzzed Metal
 
-  ![](/Users/earn/workspace/cg/lunaraytracer/images/metal.png)
+  ![](./images/metal.png)
 
-  ![](/Users/earn/workspace/cg/lunaraytracer/images/metalFuzz.png)
+  ![](./images/metalFuzz.png)
 
 - Dielectric (refraction)
 
-![](/Users/earn/workspace/cg/lunaraytracer/images/dielectricBubble.png)
+![](./images/dielectricBubble.png)
 
 - Final Scene
 
-  ![](/Users/earn/workspace/cg/lunaraytracer/images/finalScene.png)
+  ![](./images/finalScene.png)
